@@ -35,5 +35,8 @@ results文件夹中给出了使用不同数据集，多种图像融合任务的�
 ## 关于使用的训练数据集和训练的参数文件
 稍后上传
 
+## 关于测试数据集
+我们所使用的测试数据集可通过该链接获取：https://drive.google.com/file/d/1-5-rZEbpCgVHfy-ki0m-bXdqT7_Sz6Qq/view?usp=drivesdk
+
 # 关于引用
 文章尚在审稿，稍后会发布
