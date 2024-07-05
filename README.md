@@ -10,14 +10,14 @@ Model 的代码。 详细代码稍后会上传。
 
 # 数据集 Datasets
 ## 训练数据集 Training Datasets
-link 链接：https://pan.baidu.com/s/1up-FGeMLt0_LQACDWjDYoQ?pwd=6356 extraction code 
+link 链接：https://pan.baidu.com/s/1up-FGeMLt0_LQACDWjDYoQ?pwd=6356 
 
-提取码：6356
+extraction code 提取码：6356
 
 ## 测试数据集 Test Datasets
-link 链接：https://pan.baidu.com/s/1cP7DKddQHjxO6W6ABZc7cg?pwd=hwso extraction code 
+link 链接：https://pan.baidu.com/s/1cP7DKddQHjxO6W6ABZc7cg?pwd=hwso 
 
-提取码：hwso
+extraction code 提取码：hwso
 
 or
 
